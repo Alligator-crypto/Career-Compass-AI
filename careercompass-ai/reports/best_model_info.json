@@ -1,0 +1,6 @@
+{
+  "best_model": "Logistic Regression",
+  "test_accuracy": 1.0,
+  "test_f1_macro": 1.0,
+  "feature_type": "sentence-transformer embeddings + scaled numeric features"
+}

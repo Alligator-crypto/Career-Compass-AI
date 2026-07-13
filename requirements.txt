@@ -5,3 +5,4 @@ xgboost
 rapidfuzz
 reportlab
 joblib
+plotly
